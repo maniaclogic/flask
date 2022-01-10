@@ -1,2 +1,1 @@
-# flask
-playing around with Flask take II
+Playing around with Flask take II. 
